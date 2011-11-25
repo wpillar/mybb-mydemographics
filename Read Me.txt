@@ -25,6 +25,18 @@ To install MyDemographics, you need to do the following:
 If you have any problems you can contact me on the MyBB Community Forums under the username 'Nitrus'.
 
 
+Changelog
+-------------------------------
+
+1.2
+
+ - Updated to be compatible with 1.6.5.
+ - Changed compatibility from 16* to 165 to guard against future hook changes.
+
+1.1
+
+ - Bug fixes.
+
 License
 -------------------------------
 This plugin is released under Creative Commons Attribution-NonCommercial 3.0.

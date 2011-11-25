@@ -1,6 +1,6 @@
 <?php
 /**
- * MyDemographics 1.0
+ * MyDemographics 1.2
  * Author: Will Pillar
  * Copyright 2010 Will Pillar. All Rights Reserved
  */
@@ -18,7 +18,7 @@ function mydemographics_info() {
 
     $lang->load('mydemographics', false, true);
 
-    $version = '1.1';
+    $version = '1.2';
     $plugin = 'MyDemographics';
     $author = 'Will Pillar';
     $desc = $lang->mydemo_desc;
